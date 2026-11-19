@@ -1,0 +1,8 @@
+timestamp,run_id,window_id,scenario,label,packets,total_bytes,avg_packet_size,min_packet_size,max_packet_size,duration,packets_per_second,client_to_server,server_to_client
+2026-10-12T18:00:30,20261012_180000_42ac51,1,mode_1_small_message,normal,21,4013,191.1,44,1902,0.026791,4.2,11,10
+2026-10-12T18:04:17,20261012_180000_42ac51,2,mode_3_large_legitimate_message,normal,20,4021,201.05,44,1902,0.007279,4.0,10,10
+2026-10-12T18:05:25,20261012_180000_42ac51,3,mode_2_repeated_telemetry,normal,25,4359,174.36,44,1902,1.027837,5.0,13,12
+2026-10-12T18:08:21,20261012_180000_42ac51,4,mode_4_large_payload_stress_test,normal,124,62233,501.88,44,16450,0.018483,24.8,62,62
+2026-10-12T18:08:46,20261012_180000_42ac51,5,mode_4_large_payload_stress_test,normal,231,120707,522.54,44,16450,0.029381,46.2,116,115
+2026-10-12T18:08:58,20261012_180000_42ac51,6,mode_4_large_payload_stress_test,normal,435,237215,545.32,44,65324,0.047597,87.0,217,218
+2026-10-12T18:14:51,20261012_180000_42ac51,7,mode_1_small_message,normal,21,4013,191.1,44,1902,0.007984,4.2,11,10

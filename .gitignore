@@ -1,0 +1,42 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Private keys and credentials
+*.key
+*_private.pem
+private*.pem
+id_rsa
+id_ed25519
+
+# Certificate signing requests
+*.csr
+*.srl
+
+# Large external datasets
+external_dataset/Monday-WorkingHours.pcap
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Large monitoring logs
+results/live_tshark_packets.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db

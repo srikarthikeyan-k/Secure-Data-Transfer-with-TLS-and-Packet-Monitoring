@@ -1,0 +1,156 @@
+{"timestamp": "2026-10-17T14:49:10.435236+00:00", "type": "test_started", "message": "Controlled rapid-connection test started.", "test_mode": 5, "requested_connections": 20}
+{"timestamp": "2026-10-17T14:49:10.442109+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.460902+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.469125+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.469125+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.469125+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.472455+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.472455+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.485632+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.489293+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.489293+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.492256+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.494426+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.494426+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.497425+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.504407+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.504407+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.512173+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.514190+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.516204+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.520256+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.526979+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.528822+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.532868+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.534630+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.536651+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.538669+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.546370+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.546370+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.548384+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.550399+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.550399+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.552411+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.560480+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.560480+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.562497+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.564515+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.564515+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.580277+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.585107+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.585107+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.589139+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.589139+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.591502+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.606729+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.610805+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.610805+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.612734+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.612734+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.612734+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.640082+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.644499+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.644499+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.648443+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.648443+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.648443+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.672927+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.677383+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.677383+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.681090+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.681090+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.681090+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.686067+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.694112+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.694112+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.697470+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.697470+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.697470+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.702484+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.705657+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.705657+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.710773+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.712989+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.714008+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.730461+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.733793+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.735954+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.735954+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.735954+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.738552+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.760618+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.763048+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.763048+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.766216+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.766216+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.769048+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.785649+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.787591+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.787591+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.787591+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.787591+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.793977+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.793977+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.795945+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.802386+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.804310+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.804310+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.804310+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.820971+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.820971+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.820971+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.820971+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.827359+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.827359+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.841351+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.845923+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.845923+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.845923+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.845923+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.845923+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.849375+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.854261+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.854261+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.854261+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.854261+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.854261+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.854261+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T14:49:10.865180+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T14:49:10.865180+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T14:49:10.865180+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 21}
+{"timestamp": "2026-10-17T14:49:10.868794+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T14:49:10.869183+00:00", "type": "test_completed", "message": "Controlled connection-burst test completed.", "test_mode": 5, "requested_connections": 20, "successful_connections": 20}
+{"timestamp": "2026-10-17T15:11:10.582707+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T15:11:10.607715+00:00", "type": "tcp_connected", "message": "TCP connection established. TLS negotiation is starting next.", "local_address": "('127.0.0.1', 57583)", "peer_address": "('127.0.0.1', 8443)"}
+{"timestamp": "2026-10-17T15:11:10.607715+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T15:11:10.615893+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T15:11:10.615893+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T15:11:10.619858+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 28}
+{"timestamp": "2026-10-17T15:11:10.622376+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-17T15:11:30.605759+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T15:11:30.636631+00:00", "type": "tcp_connected", "message": "TCP connection established. TLS negotiation is starting next.", "local_address": "('127.0.0.1', 57585)", "peer_address": "('127.0.0.1', 8443)"}
+{"timestamp": "2026-10-17T15:11:30.636631+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-17T15:11:30.666638+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-17T15:11:30.668666+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-17T15:11:30.674163+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 28}
+{"timestamp": "2026-10-17T15:11:30.677848+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-18T04:12:04.809286+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-18T04:12:04.847019+00:00", "type": "tcp_connected", "message": "TCP connection established. TLS negotiation is starting next.", "local_address": "('127.0.0.1', 62810)", "peer_address": "('127.0.0.1', 8443)"}
+{"timestamp": "2026-10-18T04:12:04.847019+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-18T04:12:04.861911+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-18T04:12:04.861911+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-18T04:12:04.862822+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 28}
+{"timestamp": "2026-10-18T04:12:04.862822+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-18T04:24:52.017428+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-18T04:24:52.024374+00:00", "type": "tcp_connected", "message": "TCP connection established. TLS negotiation is starting next.", "local_address": "('127.0.0.1', 51305)", "peer_address": "('127.0.0.1', 8443)"}
+{"timestamp": "2026-10-18T04:24:52.024374+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-18T04:24:52.028788+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-18T04:24:52.029114+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-18T04:24:52.030897+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 28}
+{"timestamp": "2026-10-18T04:24:52.031834+00:00", "type": "response_received", "message": "Client received an application response.", "response_length": 28}
+{"timestamp": "2026-10-30T14:05:47.486698+00:00", "type": "tcp_connecting", "message": "Client is connecting to the TLS server.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-30T14:05:47.514011+00:00", "type": "tcp_connected", "message": "TCP connection established. TLS negotiation is starting next.", "local_address": "('127.0.0.1', 60357)", "peer_address": "('127.0.0.1', 8443)"}
+{"timestamp": "2026-10-30T14:05:47.514011+00:00", "type": "tls_handshake_started", "message": "TCP connected; TLS handshake is starting.", "host": "127.0.0.1", "port": 8443}
+{"timestamp": "2026-10-30T14:05:47.519320+00:00", "type": "certificate_verified", "message": "Server certificate and hostname validated successfully.", "hostname": "localhost", "tls_version": "TLSv1.3"}
+{"timestamp": "2026-10-30T14:05:47.519320+00:00", "type": "tls_connected", "message": "Secure TLS connection established.", "tls_version": "TLSv1.3", "cipher": "('TLS_AES_256_GCM_SHA384', 'TLSv1.3', 256)"}
+{"timestamp": "2026-10-30T14:05:47.519320+00:00", "type": "message_sent", "message": "Client sent application data through TLS.", "message_length": 28}

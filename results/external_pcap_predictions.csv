@@ -1,0 +1,2 @@
+window_id,packets,total_bytes,avg_packet_size,min_packet_size,max_packet_size,duration,packets_per_second,client_to_server,server_to_client,prediction
+0,418,116413,278.5,60,3126,0.230709,83.6,4,20,ANOMALOUS

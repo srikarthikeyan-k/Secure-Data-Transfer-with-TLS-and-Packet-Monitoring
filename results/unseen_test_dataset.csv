@@ -1,0 +1,7 @@
+packets,total_bytes,avg_packet_size,min_packet_size,max_packet_size,duration,packets_per_second,client_to_server,server_to_client,label
+21,4013,191.1,44,1902,0.014441,4.2,11,10,normal
+17,3827,225.12,44,1902,0.010113,3.4,9,8,normal
+21,4065,193.57,44,1902,0.010519,4.2,11,10,normal
+231,120707,522.54,44,16450,0.057326,46.2,115,116,abnormal
+210,40082,190.87,44,1902,1.195976,42.0,111,99,abnormal
+1,56,56.0,56,56,0.0,0.2,1,0,normal
